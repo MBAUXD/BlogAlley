@@ -1,0 +1,16 @@
+.navbar-brand img{
+    width: 16vw;
+}
+.carousel-inner h5{
+    color: yellowgreen
+}
+.carousel-inner p{
+    color: yellowgreen
+}
+/* .col-md-6 img{
+    width: 16vw;
+    height: 16vh;
+} */
+footer{
+    text-align: center;
+}
